@@ -6,3 +6,4 @@ Change local
 
 change remote
 
+Lokaal gewijzigd.
