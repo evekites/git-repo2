@@ -4,7 +4,7 @@
 
 2 PC2
 
-3 PC1 yyy
+3 PC1 xxx
 
 4
 
