@@ -1,11 +1,12 @@
 # git-repo2
 
-Remote gewijzigd!
-Remote aangepastLokaal
-Eerste repo
-
-Change local
-
-change remote
-
-Lokaal gewijzigd.
+1 lokaal
+2
+3
+4
+5
+6
+7
+8
+9
+10
