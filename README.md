@@ -2,7 +2,7 @@
 
 1 lokaal
 
-2
+2 PC2
 
 3 PC1
 
