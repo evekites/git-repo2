@@ -1,7 +1,7 @@
 # git-repo2
 
 Remote gewijzigd!
-Lokaal
+Remote aangepastLokaal
 Eerste repo
 
 Change local
